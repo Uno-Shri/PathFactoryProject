@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)(failed)">
+    <classes>
+      <class name="PathFactory.PathFactory.AutomationPractice">
+        <methods>
+          <include name="verifyEmptyStateErrorTest"/>
+          <include name="verifyIncorrectEmailErrorTest"/>
+          <include name="verifyLandingPageTest"/>
+          <include name="verifyIncorrectPasswordErrorTest"/>
+          <include name="verifyLoginSuccess"/>
+          <include name="verifyForgotPasswordLinkTest"/>
+          <include name="launchUrl"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- PathFactory.PathFactory.AutomationPractice -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

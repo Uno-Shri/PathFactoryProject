@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-17T11:05:41 EDT" name="Suite" finished-at="2022-06-17T11:06:42 EDT" duration-ms="61415">
+    <groups>
+    </groups>
+    <test started-at="2022-06-17T11:05:41 EDT" name="Test" finished-at="2022-06-17T11:06:42 EDT" duration-ms="61415">
+      <class name="PathFactory.PathFactory.AutomationPractice">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:05:41 EDT" name="launchUrl" finished-at="2022-06-17T11:06:06 EDT" duration-ms="25327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="verifyLandingPageTest()[pri:1, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:06 EDT" name="verifyLandingPageTest" finished-at="2022-06-17T11:06:06 EDT" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTest -->
+        <test-method signature="verifyEmptyStateErrorTest()[pri:2, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:06 EDT" name="verifyEmptyStateErrorTest" finished-at="2022-06-17T11:06:19 EDT" duration-ms="12813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyStateErrorTest -->
+        <test-method signature="verifyIncorrectPasswordErrorTest()[pri:3, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:19 EDT" name="verifyIncorrectPasswordErrorTest" finished-at="2022-06-17T11:06:22 EDT" duration-ms="2672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncorrectPasswordErrorTest -->
+        <test-method signature="verifyIncorrectEmailErrorTest()[pri:4, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:22 EDT" name="verifyIncorrectEmailErrorTest" finished-at="2022-06-17T11:06:24 EDT" duration-ms="2161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncorrectEmailErrorTest -->
+        <test-method signature="verifyForgotPasswordLinkTest()[pri:5, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:24 EDT" name="verifyForgotPasswordLinkTest" finished-at="2022-06-17T11:06:39 EDT" duration-ms="14992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLinkTest -->
+        <test-method signature="verifyLoginSuccess()[pri:6, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:39 EDT" name="verifyLoginSuccess" finished-at="2022-06-17T11:06:41 EDT" duration-ms="2506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSuccess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:PathFactory.PathFactory.AutomationPractice@e7edb54]" started-at="2022-06-17T11:06:41 EDT" name="tearDown" finished-at="2022-06-17T11:06:42 EDT" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PathFactory.PathFactory.AutomationPractice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
